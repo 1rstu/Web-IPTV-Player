@@ -6,7 +6,7 @@
       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
       <meta name="description" content="Askbootstrap">
       <meta name="author" content="TeLaSe">
-      <title>WebTV IPTV Player</title>
+      <title>Indo Iptv</title>
       <!-- Favicon Icon -->
       <link rel="icon" type="image/png" href="img/favicon.png">
       <!-- Bootstrap core CSS-->
@@ -59,7 +59,7 @@
          <!-- Sidebar -->
          <ul id="list" class="sidebar navbar-nav list">
 		    <li class="nav-item">
-               <a class="channel nav-link" data-value="https://tc-live1.sanook.com/live/22302_ch5.m3u8" href="javascript:void(0);">CH5</a>
+               <a class="channel nav-link" data-value="https://etslive-2-vidio-com.akamaized.net/exp=1614801457~acl=/hls-p/ingest_geo_6686_*/*~hmac=f98ad254ace5b9062a22ce5e25111dabb9a11c5e7391ab99df2f2641917f1b0f/hls-p/ingest_geo_6686_360p/index.m3u8" href="javascript:void(0);">Champion Tv</a>
             </li>
             <li class="nav-item">
                <a class="channel nav-link" data-value="https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8" href="javascript:void(0);">Mono HD</a>
